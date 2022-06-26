@@ -6,6 +6,6 @@ Balance Factor = Height of Right Subtree - Height of Left Subtree
 
 Public functions
 
-* contains(values)
+* contains(value)
 * insert(value)
-* remove(values)
+* remove(value)
