@@ -287,7 +287,6 @@ if __name__ == "__main__":
             node_values_del.append(x)
             
             i += 1
-            #print("______________________")
         
     avl.display()    
        
