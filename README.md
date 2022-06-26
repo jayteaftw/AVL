@@ -9,3 +9,4 @@ Public functions
 * contains(value)
 * insert(value)
 * remove(value)
+* display()
